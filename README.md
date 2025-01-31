@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/naveenvatti2003/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/naveenvatti2003/Coding/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/naveenvatti2003/Coding/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Simulation
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/naveenvatti2003/Coding/tree/master/0782-jewels-and-stones) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/naveenvatti2003/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
