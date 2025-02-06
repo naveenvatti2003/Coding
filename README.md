@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naveenvatti2003/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/naveenvatti2003/Coding/tree/master/0169-majority-element) |
+| [0645-set-mismatch](https://github.com/naveenvatti2003/Coding/tree/master/0645-set-mismatch) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/naveenvatti2003/Coding/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/naveenvatti2003/Coding/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/naveenvatti2003/Coding/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/naveenvatti2003/Coding/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/naveenvatti2003/Coding/tree/master/0205-isomorphic-strings) |
+| [0645-set-mismatch](https://github.com/naveenvatti2003/Coding/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/naveenvatti2003/Coding/tree/master/0782-jewels-and-stones) |
 | [2406-decode-the-message](https://github.com/naveenvatti2003/Coding/tree/master/2406-decode-the-message) |
 ## Dynamic Programming
@@ -52,8 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/naveenvatti2003/Coding/tree/master/0169-majority-element) |
+| [0645-set-mismatch](https://github.com/naveenvatti2003/Coding/tree/master/0645-set-mismatch) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/naveenvatti2003/Coding/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/naveenvatti2003/Coding/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
