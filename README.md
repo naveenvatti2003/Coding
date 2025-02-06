@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/naveenvatti2003/Coding/tree/master/0009-palindrome-number) |
+| [0415-add-strings](https://github.com/naveenvatti2003/Coding/tree/master/0415-add-strings) |
 ## String
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/naveenvatti2003/Coding/tree/master/0205-isomorphic-strings) |
+| [0415-add-strings](https://github.com/naveenvatti2003/Coding/tree/master/0415-add-strings) |
 | [0782-jewels-and-stones](https://github.com/naveenvatti2003/Coding/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/naveenvatti2003/Coding/tree/master/1205-defanging-an-ip-address) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/naveenvatti2003/Coding/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/naveenvatti2003/Coding/tree/master/0415-add-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/naveenvatti2003/Coding/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
