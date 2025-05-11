@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/naveenvatti2003/Coding/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/naveenvatti2003/Coding/tree/master/0645-set-mismatch) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/naveenvatti2003/Coding/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1293-three-consecutive-odds](https://github.com/naveenvatti2003/Coding/tree/master/1293-three-consecutive-odds) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/naveenvatti2003/Coding/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/naveenvatti2003/Coding/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/naveenvatti2003/Coding/tree/master/2199-two-furthest-houses-with-different-colors) |
