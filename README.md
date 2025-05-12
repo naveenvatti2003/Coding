@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/naveenvatti2003/Coding/tree/master/0205-isomorphic-strings) |
+| [0345-reverse-vowels-of-a-string](https://github.com/naveenvatti2003/Coding/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/naveenvatti2003/Coding/tree/master/0415-add-strings) |
 | [0782-jewels-and-stones](https://github.com/naveenvatti2003/Coding/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/naveenvatti2003/Coding/tree/master/1205-defanging-an-ip-address) |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/naveenvatti2003/Coding/tree/master/0645-set-mismatch) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/naveenvatti2003/Coding/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
