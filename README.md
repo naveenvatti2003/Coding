@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/naveenvatti2003/Coding/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2406-decode-the-message](https://github.com/naveenvatti2003/Coding/tree/master/2406-decode-the-message) |
 | [3379-score-of-a-string](https://github.com/naveenvatti2003/Coding/tree/master/3379-score-of-a-string) |
+| [3811-reverse-degree-of-a-string](https://github.com/naveenvatti2003/Coding/tree/master/3811-reverse-degree-of-a-string) |
 ## Array
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/naveenvatti2003/Coding/tree/master/0415-add-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/naveenvatti2003/Coding/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3811-reverse-degree-of-a-string](https://github.com/naveenvatti2003/Coding/tree/master/3811-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
