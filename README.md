@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/naveenvatti2003/Coding/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naveenvatti2003/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/naveenvatti2003/Coding/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/naveenvatti2003/Coding/tree/master/0645-set-mismatch) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/naveenvatti2003/Coding/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/naveenvatti2003/Coding/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/naveenvatti2003/Coding/tree/master/0205-isomorphic-strings) |
 | [0645-set-mismatch](https://github.com/naveenvatti2003/Coding/tree/master/0645-set-mismatch) |
