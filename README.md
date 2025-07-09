@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/naveenvatti2003/Coding/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/naveenvatti2003/Coding/tree/master/0415-add-strings) |
 | [0782-jewels-and-stones](https://github.com/naveenvatti2003/Coding/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/naveenvatti2003/Coding/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/naveenvatti2003/Coding/tree/master/1205-defanging-an-ip-address) |
 | [1894-merge-strings-alternately](https://github.com/naveenvatti2003/Coding/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/naveenvatti2003/Coding/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/naveenvatti2003/Coding/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/naveenvatti2003/Coding/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/naveenvatti2003/Coding/tree/master/1894-merge-strings-alternately) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/naveenvatti2003/Coding/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
