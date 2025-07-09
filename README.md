@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/naveenvatti2003/Coding/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/naveenvatti2003/Coding/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/naveenvatti2003/Coding/tree/master/0415-add-strings) |
 ## String
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/naveenvatti2003/Coding/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naveenvatti2003/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/naveenvatti2003/Coding/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/naveenvatti2003/Coding/tree/master/0189-rotate-array) |
 | [0645-set-mismatch](https://github.com/naveenvatti2003/Coding/tree/master/0645-set-mismatch) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/naveenvatti2003/Coding/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1293-three-consecutive-odds](https://github.com/naveenvatti2003/Coding/tree/master/1293-three-consecutive-odds) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/naveenvatti2003/Coding/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/naveenvatti2003/Coding/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/naveenvatti2003/Coding/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/naveenvatti2003/Coding/tree/master/1894-merge-strings-alternately) |
