@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/naveenvatti2003/Coding/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/naveenvatti2003/Coding/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/naveenvatti2003/Coding/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/naveenvatti2003/Coding/tree/master/0344-reverse-string) |
