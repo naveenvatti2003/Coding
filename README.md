@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/naveenvatti2003/Coding/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/naveenvatti2003/Coding/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/naveenvatti2003/Coding/tree/master/0645-set-mismatch) |
+| [1019-squares-of-a-sorted-array](https://github.com/naveenvatti2003/Coding/tree/master/1019-squares-of-a-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/naveenvatti2003/Coding/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1293-three-consecutive-odds](https://github.com/naveenvatti2003/Coding/tree/master/1293-three-consecutive-odds) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/naveenvatti2003/Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/naveenvatti2003/Coding/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/naveenvatti2003/Coding/tree/master/0645-set-mismatch) |
+| [1019-squares-of-a-sorted-array](https://github.com/naveenvatti2003/Coding/tree/master/1019-squares-of-a-sorted-array) |
 | [1970-sorting-the-sentence](https://github.com/naveenvatti2003/Coding/tree/master/1970-sorting-the-sentence) |
 ## Counting
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/naveenvatti2003/Coding/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/naveenvatti2003/Coding/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/naveenvatti2003/Coding/tree/master/0345-reverse-vowels-of-a-string) |
+| [1019-squares-of-a-sorted-array](https://github.com/naveenvatti2003/Coding/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/naveenvatti2003/Coding/tree/master/1894-merge-strings-alternately) |
 ## String Matching
 |  |
