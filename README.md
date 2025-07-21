@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/naveenvatti2003/Coding/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/naveenvatti2003/Coding/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/naveenvatti2003/Coding/tree/master/0415-add-strings) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/naveenvatti2003/Coding/tree/master/1950-sign-of-the-product-of-an-array) |
 ## String
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/naveenvatti2003/Coding/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1293-three-consecutive-odds](https://github.com/naveenvatti2003/Coding/tree/master/1293-three-consecutive-odds) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/naveenvatti2003/Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/naveenvatti2003/Coding/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/naveenvatti2003/Coding/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/naveenvatti2003/Coding/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/naveenvatti2003/Coding/tree/master/2199-two-furthest-houses-with-different-colors) |
