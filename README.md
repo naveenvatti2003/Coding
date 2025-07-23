@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/naveenvatti2003/Coding/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/naveenvatti2003/Coding/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/naveenvatti2003/Coding/tree/master/0645-set-mismatch) |
+| [0792-binary-search](https://github.com/naveenvatti2003/Coding/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/naveenvatti2003/Coding/tree/master/1019-squares-of-a-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/naveenvatti2003/Coding/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1293-three-consecutive-odds](https://github.com/naveenvatti2003/Coding/tree/master/1293-three-consecutive-odds) |
@@ -110,4 +111,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/naveenvatti2003/Coding/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naveenvatti2003/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0792-binary-search](https://github.com/naveenvatti2003/Coding/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
