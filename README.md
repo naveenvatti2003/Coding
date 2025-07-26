@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/naveenvatti2003/Coding/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/naveenvatti2003/Coding/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2406-decode-the-message](https://github.com/naveenvatti2003/Coding/tree/master/2406-decode-the-message) |
+| [2881-split-strings-by-separator](https://github.com/naveenvatti2003/Coding/tree/master/2881-split-strings-by-separator) |
 | [3379-score-of-a-string](https://github.com/naveenvatti2003/Coding/tree/master/3379-score-of-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/naveenvatti2003/Coding/tree/master/3811-reverse-degree-of-a-string) |
 ## Array
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/naveenvatti2003/Coding/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/naveenvatti2003/Coding/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/naveenvatti2003/Coding/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2881-split-strings-by-separator](https://github.com/naveenvatti2003/Coding/tree/master/2881-split-strings-by-separator) |
 ## Simulation
 |  |
 | ------- |
