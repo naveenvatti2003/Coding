@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/naveenvatti2003/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/naveenvatti2003/Coding/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/naveenvatti2003/Coding/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/naveenvatti2003/Coding/tree/master/0205-isomorphic-strings) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/naveenvatti2003/Coding/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/naveenvatti2003/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/naveenvatti2003/Coding/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/naveenvatti2003/Coding/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/naveenvatti2003/Coding/tree/master/0242-valid-anagram) |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/naveenvatti2003/Coding/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naveenvatti2003/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/naveenvatti2003/Coding/tree/master/0792-binary-search) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/naveenvatti2003/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
