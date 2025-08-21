@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/naveenvatti2003/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/naveenvatti2003/Coding/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/naveenvatti2003/Coding/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/naveenvatti2003/Coding/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/naveenvatti2003/Coding/tree/master/0205-isomorphic-strings) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/naveenvatti2003/Coding/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naveenvatti2003/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Greedy
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/naveenvatti2003/Coding/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/naveenvatti2003/Coding/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naveenvatti2003/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/naveenvatti2003/Coding/tree/master/0189-rotate-array) |
